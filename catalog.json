@@ -1,0 +1,102 @@
+{
+  "catalogVersion": 1,
+  "items": [
+    {
+      "id": 1101,
+      "category": "tops",
+      "name": "Striped Knit Top",
+      "image": "assets/previews/1101.png"
+    },
+    {
+      "id": 1102,
+      "category": "tops",
+      "name": "Men Jacket",
+      "image": "assets/previews/1102.png"
+    },
+    {
+      "id": 1103,
+      "category": "tops",
+      "name": "Top Jacket",
+      "image": "assets/previews/1103.png"
+    },
+    {
+      "id": 1104,
+      "category": "tops",
+      "name": "Top Shirt",
+      "image": "assets/previews/1104.png"
+    },
+    {
+      "id": 1201,
+      "category": "pants",
+      "name": "Denim Pants",
+      "image": "assets/previews/1201.png"
+    },
+    {
+      "id": 1202,
+      "category": "pants",
+      "name": "Pants Ariell",
+      "image": "assets/previews/1202.png"
+    },
+    {
+      "id": 1301,
+      "category": "shoes",
+      "name": "Custom Sneakers",
+      "image": "assets/previews/1301.png"
+    },
+    {
+      "id": 1302,
+      "category": "shoes",
+      "name": "Shoes CN",
+      "image": "assets/previews/1302.png"
+    },
+    {
+      "id": 1303,
+      "category": "shoes",
+      "name": "Runner Shoes",
+      "image": "assets/previews/1303.png"
+    },
+    {
+      "id": 1401,
+      "category": "hair",
+      "name": "Ariell Hair",
+      "image": "assets/previews/1401.png"
+    },
+    {
+      "id": 1402,
+      "category": "hair",
+      "name": "Hair With Blindfold",
+      "image": "assets/previews/1402.png"
+    },
+    {
+      "id": 1403,
+      "category": "hair",
+      "name": "Hair Base 5",
+      "image": "assets/previews/1403.png"
+    },
+    {
+      "id": 1404,
+      "category": "hair",
+      "name": "Hair 2",
+      "image": "assets/previews/1404.png"
+    },
+    {
+      "id": 1405,
+      "category": "hair",
+      "name": "Hair MMK",
+      "image": "assets/previews/1405.png"
+    },
+    {
+      "id": 1406,
+      "category": "hair",
+      "name": "Black Hair Rework",
+      "image": "assets/previews/1406.png"
+    },
+    {
+      "id": 1501,
+      "category": "accessories",
+      "name": "Gelang",
+      "image": "assets/previews/1501.png"
+    }
+  ],
+  "note": "The catalog previews are PNG thumbnails. DFF runtime application requires a client-side RenderWare clothing loader."
+}
